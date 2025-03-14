@@ -58,10 +58,9 @@ This dashboard includes dynamic filters to explore IPL data:
 
 ---  
 
-## 📸 Dashboard Preview  
-_Add screenshots of your dashboard here:_  
-![IPL Dashboard](![image](https://github.com/user-attachments/assets/0be9f4a7-d768-47aa-b45b-5a2bd3f2556c)
-)  
+## 📸 Dashboard Preview    
+![IPL Dashboard] ![image](https://github.com/user-attachments/assets/3f60a197-0361-4e81-83d0-37b991cf5f00)
+
 
 ---  
 
